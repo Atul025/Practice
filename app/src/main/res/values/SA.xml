@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saarray">
+        <item>  Simple  Answer1 </item>
+        <item>  Simple  Answer2 </item>
+        <item>  Simple  Answer3 </item>
+        <item>  Simple  Answer4 </item>
+        <item>  Simple  Answer5 </item>
+    </string-array>
+</resources>

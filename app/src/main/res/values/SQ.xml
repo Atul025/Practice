@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sqarray">
+        <item>  Simple  Question1 </item>
+        <item>  Simple  Question2 </item>
+        <item>  Simple  Question3 </item>
+        <item>  Simple  Question4 </item>
+        <item>  Simple  Question5 </item>
+    </string-array>
+</resources>

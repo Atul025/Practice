@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="taarray">
+        <item>  Tough  Answer1 </item>
+        <item>  Tough  Answer2 </item>
+        <item>  Tough  Answer3 </item>
+        <item>  Tough  Answer4 </item>
+        <item>  Tough  Answer5 </item>
+    </string-array>
+</resources>

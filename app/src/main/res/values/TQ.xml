@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tqarray">
+        <item>   Tough Question1 </item>
+        <item>   Tough Question2 </item>
+        <item>   Tough Question3 </item>
+        <item>   Tough Question4 </item>
+        <item>   Tough Question5 </item>
+    </string-array>
+</resources>
